@@ -4,8 +4,8 @@
 
 //Right motor
 int enableRightMotor=22; 
-int rightMotorPin1=16;
-int rightMotorPin2=17;
+int rightMotorPin1=15;
+int rightMotorPin2=2;
 //Left motor
 int enableLeftMotor=23;
 int leftMotorPin1=18;
